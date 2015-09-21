@@ -7,3 +7,6 @@ LGPL v3
 
 # Known Issues
 Strings do not support Unicode escapes (i.e. \uXXXX)
+
+# Roadmap
+* Java Reflection
